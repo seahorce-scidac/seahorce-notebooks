@@ -1,0 +1,23 @@
+name: seahorce
+channels:
+  - conda-forge
+dependencies:
+  - cf_xarray
+  - dask
+  - jupyter
+  - jupyterlab
+  - netcdf4
+  - numba >= 0.49
+  - numpy
+  - xarray
+  - xgcm
+  - cartopy
+  - cmocean
+  - datashader
+  - geoviews
+  - holoviews
+  - hvplot
+  - matplotlib
+  - zarr
+  - nodejs
+  - dask-labextension
